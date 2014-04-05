@@ -7,3 +7,6 @@ o drive de google
 
   lo veremos en (https:/github.com)
    fue creado por r1alvarez2002@hotmail.com
+   
+   estamos editando desde la pagina github para ver la manera en que
+   se actualiza nuestra computadora
